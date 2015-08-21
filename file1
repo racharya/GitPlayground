@@ -1,2 +1,5 @@
 File 1 contents
 Adding new line in file1
+To get here, I created branch first using git branch <branchName>
+then I did git checkout <branchName>. This switched me to the branch I want to be in
+then I am here typing this to make commits in the new branch for testing purposes.
